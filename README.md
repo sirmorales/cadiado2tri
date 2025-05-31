@@ -1,1 +1,1 @@
-# cadiado2tri
+# gerador2tri
